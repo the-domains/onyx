@@ -1,0 +1,28 @@
+name: Onyx
+favicon: null
+layout_spectrum: 0.10964735527522862
+typography_spectrum: 0.3658994196448475
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.9477371196262538
+  lightness: 0.8514967525843531
+  saturation: 0.47168951015919447
+  rhythmicContrast: 0.2403523614630103
+purpose: []
